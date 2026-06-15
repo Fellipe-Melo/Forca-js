@@ -14,3 +14,36 @@ body{
     font-size:40px;
     margin:20px;
 }
+
+body{
+    font-family:Arial;
+    background:#1f2937;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.container{
+    background:#374151;
+    padding:40px;
+    border-radius:15px;
+    width:400px;
+    text-align:center;
+}
+
+input{
+    padding:10px;
+    width:100px;
+}
+
+button{
+    padding:10px;
+}
+
+.forca{
+    font-size:40px;
+    letter-spacing:10px;
+    margin:20px;
+}
